@@ -1,0 +1,33 @@
+.GD_list_ul {
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    padding-left: 140px;
+    margin-top: 74px;
+}
+
+.GD_list_ul li {
+    width: 445px;
+    height: 197px;
+    margin-bottom: 68px;
+    margin-right: 145px;
+}
+
+.GD_list_ul li img {
+    width: 100%;
+    height: 100%;
+}
+
+.GD_course_img {
+    width: 1444px;
+    height: 562px;
+    margin-top: 118px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+.GD_course_img img {
+    width: 100%;
+    height: 100%;
+}

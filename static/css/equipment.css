@@ -1,0 +1,37 @@
+.eq_tree_img {
+    width: 1352px;
+    height: 680px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 96px;
+    margin-bottom: 147PX;
+}
+
+.eq_tree_img img {
+    width: 100%;
+    height: 100%;
+}
+
+.eq_txt_p {
+    width: 100%;
+    text-align: center;
+    height: 20px;
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 16px;
+    margin-top: 55px;
+}
+
+.eq_city_img {
+    width: 1280px;
+    height: 674px;
+    margin-top: 46px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    padding-bottom: 77px;
+}
+
+.eq_city_img img {
+    width: 100%;
+    height: 100%;
+}
